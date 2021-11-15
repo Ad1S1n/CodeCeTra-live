@@ -1769,7 +1769,7 @@ img.u-pull-left {
     visibility: hidden;
   }
 }
-/*
+
 .sticky-ads{ 
     position: fixed; 
     bottom: 0; left: 0; 
@@ -1793,7 +1793,7 @@ img.u-pull-left {
     box-shadow: 0 -6px 18px 0 rgba(9,32,76,.08); } 
     
     .sticky-ads .sticky-ads-close svg { width: 22px; height: 22px; fill: #000; } .sticky-ads .sticky-ads-content { overflow: hidden; display: block; position: relative; height: 70px; width: 100%; margin-right: 10px; margin-left: 10px; }
-    */
+    
 
 /* The Modal (background) */
 .modal {
