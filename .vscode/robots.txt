@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /images/logo.svg
+Allow: /images/favicon.png
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /css
+Disallow: /js
+Disallow: /pass.html
+Disallow: /fail.html
+Sitemap: https://codecetra.in/sitemap.xml
