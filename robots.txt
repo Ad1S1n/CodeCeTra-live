@@ -7,4 +7,5 @@ Disallow: /css
 Disallow: /js
 Disallow: /pass.html
 Disallow: /fail.html
+Disallow: /pintrest-ac59f.html
 Sitemap: https://codecetra.in/sitemap.xml
